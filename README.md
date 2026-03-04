@@ -6,7 +6,7 @@ Meu site portfólio pessoal, criado para apresentar meus projetos, habilidades e
 
 ## 🧠 Sobre
 
-Este é meu portfólio web responsivo 🚀 — feito com Next.js e Tailwind CSS — e serve para mostrar quem eu sou como desenvolvedor, meus projetos e habilidades. :contentReference[oaicite:1]{index=1}
+Este é meu portfólio web responsivo 🚀 — feito com Next.js e Tailwind CSS — e serve para mostrar quem eu sou como desenvolvedor, meus projetos e habilidades.
 
 ---
 
@@ -18,8 +18,6 @@ O projeto foi construído com:
 - **React**
 - **Tailwind CSS**
 - **TypeScript**
-
-*(Você pode adicionar ou remover conforme o seu projeto real)* :contentReference[oaicite:2]{index=2}
 
 ---
 
