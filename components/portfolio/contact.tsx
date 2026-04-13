@@ -52,7 +52,7 @@ export function Contact() {
                 <p className="text-sm text-muted-foreground">
                   {t.contact.title === "Contato" ? "Localizacao" : "Location"}
                 </p>
-                <p className="font-medium text-foreground">Patos-PB</p>
+                <p className="font-medium text-foreground">Bananeiras-PB</p>
               </div>
             </div>
           </div>
