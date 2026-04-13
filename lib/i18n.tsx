@@ -23,7 +23,7 @@ const translations = {
     about: {
       title: "Sobre Mim",
       description:
-        "Me chamo Israel, atualmente resido na cidade de Patos-PB e estou cursando o 9° período de Ciência da Computação pela UEPB. Possuo experiência acadêmica no desenvolvimento de aplicações web, atuando principalmente no front-end com React e integração via APIs REST.",
+        "Me chamo Israel Lima, atualmente resido na cidade de Bananeiras-PB e estou cursando o 9° período de Ciência da Computação pela UEPB (CAMPUS VII). Possuo experiência acadêmica no desenvolvimento de aplicações web, atuando principalmente no front-end com React e integração via APIs REST.",
       description2:
         "Meu objetivo está no foco em aprendizado prático em Java, MySQL e Spring Boot, além de desenvolvimento front-end com React. Sou uma pessoa que gosta de correr atrás dos meus objetivos e de aprender tecnologias novas. Com essa curiosidade, disciplina, organização e facilidade que tenho para aprender novas linguagens, espero uma oportunidade para aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções eficientes em um ambiente colaborativo.",
       experience: "Experiencia",
